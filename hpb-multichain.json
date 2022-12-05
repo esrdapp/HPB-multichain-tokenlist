@@ -48,7 +48,7 @@
 			"logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=023"
 		},
 		{
-			"name": "Binance USD BUSD",
+			"name": "Binance BUSD",
 			"address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
 			"symbol": "BUSD",
 			"decimals": 18,
@@ -56,7 +56,7 @@
 			"logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg?v=023"
 		},
     {
-			"name": "DAI Token",
+			"name": "DAI",
 			"address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
 			"symbol": "DAI",
 			"decimals": 18,
