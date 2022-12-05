@@ -16,7 +16,7 @@
 			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_whpb.svg"
 		},
     {
-			"name": "Wrapped BTC Token",
+			"name": "Wrapped BTC",
 			"address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
 			"symbol": "WBTC",
 			"decimals": 18,
@@ -24,7 +24,7 @@
 			"logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=023"
 		},
 		{
-			"name": "Wrapped ETH Token",
+			"name": "Wrapped ETH",
 			"address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
 			"symbol": "WETH",
 			"decimals": 18,
@@ -32,7 +32,7 @@
 			"logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=023"
 		},
 		{
-			"name": "Tether USDT Token",
+			"name": "Tether USDT",
 			"address": "0x765277eebeca2e31912c9946eae1021199b39c61",
 			"symbol": "USDT",
 			"decimals": 18,
@@ -40,7 +40,7 @@
 			"logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=023"
 		},
 		{
-			"name": "USD Coin USDC Token",
+			"name": "USD Coin USDC",
 			"address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
 			"symbol": "USDC",
 			"decimals": 18,
@@ -48,7 +48,7 @@
 			"logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=023"
 		},
 		{
-			"name": "Binance USD BUSD Token",
+			"name": "Binance USD BUSD",
 			"address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
 			"symbol": "BUSD",
 			"decimals": 18,
